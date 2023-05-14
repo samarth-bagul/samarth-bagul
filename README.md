@@ -72,7 +72,7 @@
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=samarth-bagul&" alt="samarth-bagul" /></p>
 
-
+<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=samarth-bagul&" /></p>
 
 
 ## <h3 align="left">You can also find me on🚀</h3>
