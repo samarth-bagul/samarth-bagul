@@ -11,7 +11,7 @@
 
 
   ## 💫About Me:
-🎓 I’m a pre-final year Computer Science undergrad at Savitribai Phule Pune University. I'm a Front End developer.
+🎓 I’m a final year Computer Science undergrad at Savitribai Phule Pune University. I'm a Front End developer.
 
 📘 I’m interested in open source, web development, cloud computing.
 
